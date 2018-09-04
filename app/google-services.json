@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "688561985073",
+    "firebase_url": "https://appwork-school-ptt.firebaseio.com",
+    "project_id": "appwork-school-ptt",
+    "storage_bucket": "appwork-school-ptt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688561985073:android:92ba2dfb48bc09ac",
+        "android_client_info": {
+          "package_name": "com.example.e3646.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688561985073-escmp293t51qbfdrqp2hn47sm3tog4lk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e3646.firebase",
+            "certificate_hash": "fc479e769c0cc45edbaab11de08c20f06c8ccf08"
+          }
+        },
+        {
+          "client_id": "688561985073-uplchtiul7s36k6veofv7bu8u4ghrh3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8C2lfud0VqCqWj2dCx54dga5lObiLF0Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688561985073-uplchtiul7s36k6veofv7bu8u4ghrh3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
